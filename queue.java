@@ -1,8 +1,3 @@
-// CIS265 4th Ass Adding passengers to queue
-// Removing passengers from queue
-// scanning Data
-// Prepared by Ziad EL Ghoul ID# 2644641
-
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.*;
